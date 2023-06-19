@@ -3,7 +3,7 @@ Inicialmente, testar a possibilidade de controlar o AC com o infravermelho.
 
 # ideias
 - Fazer o controle através do PC via USB e usar o arduino apenas como interface para sensores e atuadores.
-- Verificar temperaturas:
+- Verificar temperaturas e umidade(?):
   - Na garagem
   - Próximo ao AC
   - Próximo ao chão embaixo da bancada da sala
