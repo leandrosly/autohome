@@ -11,3 +11,4 @@ Inicialmente, testar a possibilidade de controlar o AC com o infravermelho.
   - No quarto
 - Monitorar via Zabbix
 
+https://github.com/LokeshPatil-loki/akarsh98-Automatic-AC-Control-using-Arduino/blob/main/IR_Recieve
