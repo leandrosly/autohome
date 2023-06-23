@@ -7,10 +7,10 @@ sketch.
 // Recommend only use IRLibRecvPCI or IRLibRecvLoop for best results
 #include <IRLibRecvPCI.h>
 
-IRrecvPCI myReceiver(3); // pin number for the receiver
+IRrecvPCI myReceiver(2); // pin number for the receiver
 void setup()
 {
-    Serial.begin(9600);
+    Serial.begin(115200);
     delay(2000);
     while (!Serial);                    // delay for Leonardo.
     myReceiver.enableIRIn(); // Start the receiver
